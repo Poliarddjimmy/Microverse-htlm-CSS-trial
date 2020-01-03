@@ -1,3 +1,9 @@
+@media only screen and (max-width: 600px) {
+    #welcome-section {
+      background-color:#0a0a23 !important;
+    }
+  }
+
 #welcome-section 
 {
     margin:auto;
